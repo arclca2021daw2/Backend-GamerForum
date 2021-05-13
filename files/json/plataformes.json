@@ -1,0 +1,66 @@
+[
+    {
+        "nom": "Play Station 5",
+        "id": "ps5"
+    },
+    {
+        "nom": "Play Station 4",
+        "id": "ps4"
+    },
+    {
+        "nom": "Play Station 3",
+        "id": "ps3"
+    },
+    {
+        "nom": "Play Station Portable",
+        "id": "psp"
+    },
+    {
+        "nom": "Play Station Vita",
+        "id": "psv"
+    },
+    {
+        "nom": "XBOX One",
+        "id": "xbox1"
+    },
+    {
+        "nom": "XBOX Series",
+        "id": "xboxs"
+    },
+    {
+        "nom": "XBOX 360",
+        "id": "xbox360"
+    },
+    {
+        "nom": "PC",
+        "id": "pc"
+    },
+    {
+        "nom": "Nintendo Switch",
+        "id": "switch"
+    },
+    {
+        "nom": "Nintendo Wii U",
+        "id": "wiiu"
+    },
+    {
+        "nom": "Nintendo Wii",
+        "id": "wii"
+    },
+    {
+        "nom": "Nintendo 3DS",
+        "id": "3ds"
+    },
+    {
+        "nom": "Nintendo DS",
+        "id": "ds"
+    },
+    {
+        "nom": "Android",
+        "id": "android"
+    },
+    {
+        "nom": "iOs",
+        "id": "ios"
+    }
+]
